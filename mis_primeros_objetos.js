@@ -55,7 +55,7 @@ console.log(adminHasPermission);
 const normalUserHasPermission = checkPermission(normalUser)
 console.log(normalUserHasPermission);
 
-console.log(administrator.sayHello());
+
 
 // Destructuring del objeto (sacar atributos de un objeto y usarlos como una variable)
 
